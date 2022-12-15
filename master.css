@@ -1,0 +1,78 @@
+.hello{
+  text-align: center;
+  margin-top: 50px;
+}
+h1{
+  font-size: 38px;
+  font-family: 'Playfair Display', serif;
+  font-weight: lighter;
+}
+h3 {
+  font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 15.4px;
+}
+p {
+  font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+a{
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 20px;
+  color: #2146C7;
+}
+.links{
+  width: 8%;
+  margin: auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-weight: lighter;
+
+}
+.links:hover{
+  background-color: #EAEAEA;
+}
+.flex-container {
+  display: flex;
+  margin: auto;
+}
+
+.flex-child {
+    flex: 1;
+
+}
+
+.flex-child:first-child {
+    margin-right: 200px;
+}
+body{
+
+}
+
+.dharti{
+  position: relative;
+  bottom: 310px;
+}
+.neechewala{
+  td{
+
+  }
+}
+label {
+    font-family: sans-serif;
+    font-size: 16px;
+    padding-right: 10px;
+}
+
+select {
+    font-size: 15px;
+    padding: 2px 5px;
+}
